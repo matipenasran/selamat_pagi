@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-puts "Loaded"
+puts "Loaded Git Version"
 
 module SelamatPagi
   class Error < StandardError; end
